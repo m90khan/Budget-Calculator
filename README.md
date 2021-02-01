@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://m90khan.github.io/Budget-Calculator/">
-    <img src="./img/favicon.png" alt="Logo" width="120" height="120">
+    <img src="./overview.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Expense Calculator </h3>
