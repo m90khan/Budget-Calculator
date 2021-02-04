@@ -9,7 +9,7 @@
   <h3 align="center">Expense Calculator </h3>
 
   <p align="center">
-Calculate incoming and outgoings <br />
+Calculate incoming and outgoings of your spendings<br />
     <a href="m90khan@gmail.com"><strong>Contact Me</strong></a>
     <br />
     <br />
@@ -22,7 +22,7 @@ Calculate incoming and outgoings <br />
 
 - [About the Project](#about-the-project)
 - [Skills](#skills)
-- [Contact](#Contact)
+- [Connect with me](#Contact)
 
 ---
 
@@ -46,11 +46,15 @@ Calculate incoming and outgoings <br />
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="khanmohsinx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="khanuxd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="khanuxd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
+[<img align="left" alt="khanuxd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribble]
 <br />
 
 ---
 
 [youtube]: https://www.youtube.com/channel/UC96rVfdTKsjZpREnH6CaCOw
 [twitter]: https://twitter.com/m90khan
-[linkedin]: www.linkedin.com/in/uxdkhan
+[linkedin]: https://www.linkedin.com/in/uxdkhan
 [instagram]: https://www.instagram.com/uxd.khan/
+[behance]: https://www.behance.net/Khan_Mohsin
+[dribble]: https://dribbble.com/uxdkhan
